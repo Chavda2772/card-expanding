@@ -3,7 +3,7 @@
 - Expand card on click.
 
 ## 🌱 Preview 🌱
-<img src="https://github.com/CodeArcc/card_layout/blob/master/main/images/Expanding_cards.jpg" alt="Card Exapnd Image" width="400" height="400" />
+<img src="https://raw.githubusercontent.com/Chavda2772/card-expanding/main/images/Expanding_cards-min.jpg" alt="Card Exapnd Image" width="400" height="400" />
 
 ## :balance_scale:Features:balance_scale:
 - Responsive design.
