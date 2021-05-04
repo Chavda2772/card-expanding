@@ -18,8 +18,8 @@
 - unsplash API is used to get random images every Time.
 
 ## :chains: Live Demo :chains:
-- [Card Expanding DEMO](https://codearc.ml/1_card_Expanding/index.html).
+- [Card Expanding DEMO](http://maheshchavda.ml/projects/cardExpanding/index.html).
 
 ## 💬 Local Site 💬
 - Simply clone the project locally and open index.html in a browser. It's Done.
-- Feel free to <a href="mailto:Codearctutorials@gmail.com">CONTACT ME</a> for any questions, concerns, or comments associated with the page.
+- Feel free to <a href="mailto:Chavdamahesh2772@gmail.com">CONTACT ME</a> for any questions, concerns, or comments associated with the page.
